@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noam Avned
 <h4>A developer from Israel
-==================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noamavned&label=Profile%20views&color=0e75b6&style=flat" alt="noamavned" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chef26804987" target="blank"><img src="https://img.shields.io/twitter/follow/chef26804987?logo=twitter&style=for-the-badge" alt="chef26804987" /></a> </p>
 
 - 🔭 I’m currently working on [Image Encrypter](https://github.com/noamavned/ImageEncryptor)
 
