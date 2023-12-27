@@ -2,8 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </br>
 <h3>
-  💻 Mostly python developer.</br>
+  💻 Mostly python developer.
+</h3>
+<h3>
   🎂 16 years old.
+</h3>
+<h3>
   🏴 Based in Rishon LeZion, Israel.
 </h3>
 
