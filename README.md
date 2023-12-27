@@ -4,7 +4,7 @@ Hi          ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 </br>
 <div>
-  💻 Mostly python developer.
+  💻 Mostly Python developer.
 </div>
 <div>
   🎂 16 years old.
@@ -16,15 +16,15 @@ Hi          ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 - 🔭 I’m currently working on [Image Encrypter](https://github.com/noamavned/ImageEncryptor)
 
-- 🌱 I’m currently learning **"Oracle APEX"**
+- 🌱 I’m currently learning: **"Oracle APEX"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **naomavned@gmail.com**
+- 📫 How to reach me: **naomavned@gmail.com**
 
-- ⚡ Fun fact **I'm Batman🦇🦸‍♂**
+- ⚡ Fun fact: **I'm Batman🦇🦸‍♂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
