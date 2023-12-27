@@ -1,5 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noam Avned
-<h4>A developer from Israel
+
+</br>
+<h3>
+  💻 Mostly python developer.</br>
+  🎂 16 years old.
+  🏴 Based in Rishon LeZion, Israel.
+</h3>
 
 
 - 🔭 I’m currently working on [Image Encrypter](https://github.com/noamavned/ImageEncryptor)
