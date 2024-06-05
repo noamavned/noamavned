@@ -16,7 +16,7 @@ Hi          ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 - 🔭 I’m currently working on [Image Encrypter](https://github.com/noamavned/ImageEncryptor)
 
-- 🌱 I’m currently learning: **"Oracle APEX"**
+- 🌱 I’m currently learning: **"Web Security"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
