@@ -14,7 +14,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 25/07/2007<br><br>🔭 I’m currently working on nothing, Feel free to suggest<br><br>🌱 I’m currently learning: "ASP.NET"<br><br>👨‍💻 All of my projects are available at https://github.com/noamavned<br><br>💬 Ask me about Python<br><br>📫 How to reach me: naomavned@gmail.com<br><br>⚡ Fun fact: I'm Batman🦇🦸‍♂</p>
+- ✨ Creating bugs since 25/07/2007
+
+- 🔭 I’m currently working on nothing, Feel free to suggest
+
+- 🌱 I’m currently learning: "ASP.NET"
+
+- 👨‍💻 All of my projects are available at https://github.com/noamavned
+
+- 💬 Ask me about Python<br>
+
+- 📫 How to reach me: naomavned@gmail.com
+
+- ⚡ Fun fact: I'm Batman🦇🦸‍♂
 
 ###
 
@@ -91,9 +103,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/noamavned/noamavned/output/snake.svg" alt="Snake animation" />
-
-###
