@@ -14,9 +14,9 @@ Hi          ![](https://user-images.githubusercontent.com/18350557/176309783-078
 </div></br>
 
 
-- 🔭 I’m currently working on [Nothing, Feel free to suggest]()
+- 🔭 I’m currently working on [Nothing, Feel free to suggest](mailto:naomavned@gmail.com)
 
-- 🌱 I’m currently learning: **"Web Security"**
+- 🌱 I’m currently learning: **"ASP.NET"**
 
 - 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
