@@ -16,13 +16,13 @@
 
 - ✨ Creating bugs since 25/07/2007
 
-- 🔭 I’m currently working on nothing, Feel free to suggest
+- 🔭 I’m currently working on [nothing, Feel free to suggest](mailto:naomavned@gmail.com)
 
 - 🌱 I’m currently learning: "ASP.NET"
 
-- 👨‍💻 All of my projects are available at https://github.com/noamavned
+- 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
-- 💬 Ask me about Python<br>
+- 💬 Ask me about Python
 
 - 📫 How to reach me: naomavned@gmail.com
 
