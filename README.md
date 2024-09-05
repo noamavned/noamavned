@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on [nothing, Feel free to suggest](mailto:naomavned@gmail.com)
 
-- 🌱 I’m currently learning: "ASP.NET"
+- 🌱 I’m currently learning: Nothing, just having fun
 
 - 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
