@@ -16,7 +16,7 @@
 
 - ✨ Creating bugs since 25/07/2007
 
-- 🔭 I’m currently working on [nothing, Feel free to suggest](mailto:naomavned@gmail.com)
+- 🔭 I’m currently working on [Final project in Electronics](mailto:naomavned@gmail.com)
 
 - 🌱 I’m currently learning: Nothing, just having fun
 
