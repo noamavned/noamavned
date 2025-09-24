@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">From Rishon LeZion, Israel.</h5>
+<h5 align="left">From Beit Zera, Israel.</h5>
 
 ###
 
@@ -16,9 +16,9 @@
 
 - ✨ Creating bugs since 25/07/2007
 
-- 🔭 I’m currently working on [Final project in Electronics](mailto:naomavned@gmail.com)
+- 🔭 I’m currently working on [nothing](mailto:naomavned@gmail.com)
 
-- 🌱 I’m currently learning: Nothing, just having fun
+- 🌱 I’m currently learning: Electronic Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/noamavned](https://github.com/noamavned)
 
