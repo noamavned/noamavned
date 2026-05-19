@@ -16,7 +16,7 @@
 
 - ✨ Creating bugs since 25/07/2007
 
-- 🔭 I’m currently working on [nothing](mailto:naomavned@gmail.com)
+- 🔭 I’m currently working on [ODIN](https://github.com/noamavned/ODIN)
 
 - 🌱 I’m currently learning: Electronic Engineering
 
